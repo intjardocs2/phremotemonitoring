@@ -4,7 +4,7 @@
 .. image:: _static/chatNow.png
    :target: https://t.me/spyremotely
    :alt: Chat Now
-   :align: right
+   :align: center
 
 Remote Phone Monitoring: What It Is and How It Works
 ----------------------------------------------------
